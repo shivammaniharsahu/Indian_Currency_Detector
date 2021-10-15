@@ -5,4 +5,7 @@ Currency Detection is an improvement over the existing Android Currency Detector
 
 Mobile Vision APIs that give new Currency Detection APIs that discover Indian currency in images and videos more accurately and quickly than before, as well as smart services like comprehending currency in varied orientations, detecting features, and interpreting images 
 
+![alt text](https://github.com/shivammaniharsahu/Indian_Currency_Detector/blob/main/sample_images/4.jpeg)
+![alt text](https://github.com/shivammaniharsahu/Indian_Currency_Detector/blob/main/sample_images/3.jpeg)
+![alt text](https://github.com/shivammaniharsahu/Indian_Currency_Detector/blob/main/sample_images/2.jpeg)
 ![alt text](https://github.com/shivammaniharsahu/Indian_Currency_Detector/blob/main/sample_images/1.jpeg)
